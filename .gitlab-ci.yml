@@ -1,7 +1,27 @@
 stages:
-  - test
+  - validate
+  - format
+  - plan 
+  - deploy 
 
-test-job:
-  stage: test
+terraform validate:
+  stage: validate
   script:
-    - echo "Hello from GitLab CI/CD" 
+    - echo "Running Terraform Validate" 
+
+terraform format: 
+   stage: format 
+   script: 
+          - echo "Running Terraform Fmt"
+
+terraform plan:
+  stage: plan
+  script: 
+          - "Running Terraform Plan"
+
+Terraform apply: 
+  stage: deploy 
+  when: manual 
+  script: 
+        - echo "Running Terraform Apply"
+  
