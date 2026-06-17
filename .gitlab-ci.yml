@@ -4,22 +4,22 @@ stages:
   - plan 
   - deploy 
 
-terraform validate:
+terraform_validate:
   stage: validate
   script:
     - echo "Running Terraform Validate" 
 
-terraform format: 
+terraform_format: 
    stage: format 
    script: 
           - echo "Running Terraform Fmt"
 
-terraform plan:
+terraform_plan:
   stage: plan
   script: 
           - "Running Terraform Plan"
 
-Terraform apply: 
+Terraform_apply: 
   stage: deploy 
   when: manual 
   script: 
