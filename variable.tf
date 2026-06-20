@@ -1,7 +1,7 @@
 variable "aws_s3_bucket" { 
     description = "static_website"
     type = string
-    default = "Rjnoord-static-website-bucket"
+    default = "rjnoord-static-website-bucket"
 
   
 }
