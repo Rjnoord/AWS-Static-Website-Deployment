@@ -107,7 +107,12 @@ This project strengthened my understanding of Infrastructure as Code, cloud auto
 * Automated Testing
 * Multi-Environment Deployments
 
----
+## screenshots
+<img width="1920" height="1080" alt="Screenshot 2026-06-19 at 10 34 09 PM" src="https://github.com/user-attachments/assets/0173aaba-90c1-462c-97be-c82598dc39d4" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-19 at 10 23 44 PM" src="https://github.com/user-attachments/assets/7eb98b8a-060b-4c48-ad21-a749d4f99f59" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-19 at 10 22 57 PM" src="https://github.com/user-attachments/assets/0054582d-d075-4cc5-80ac-21386e4aa3e5" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-19 at 10 23 34 PM" src="https://github.com/user-attachments/assets/428ff115-0ebe-4455-94be-4a676b1bb526" />
+
 
 ## Author
 
