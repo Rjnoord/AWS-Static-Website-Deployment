@@ -96,7 +96,8 @@ Static Website Hosting
 
 This project strengthened my understanding of Infrastructure as Code, cloud automation, Git workflows, and CI/CD pipeline implementation. It also provided hands-on experience deploying AWS resources through repeatable and scalable automation processes.
 
----
+## Lab Walkthrough
+[lab walkthrough](https://youtu.be/PY18Z6P9hMM)
 
 ## Future Enhancements
 
